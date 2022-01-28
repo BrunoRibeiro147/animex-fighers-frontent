@@ -131,7 +131,7 @@ const SelectCharacter = ({ setCharacterNFT }: ISelectCharacterProps) => {
 				<div className={styles.loading}>
 					<div className={styles.indicator}>
 						<LoadingIndicator />
-						<p>Minting In Progress...</p>
+						<p>Criação em Progresso...</p>
 					</div>
 					<img
 						src="https://media2.giphy.com/media/61tYloUgq1eOk/giphy.gif?cid=ecf05e47dg95zbpabxhmhaksvoy8h526f96k4em0ndvx078s&rid=giphy.gif&ct=g"
